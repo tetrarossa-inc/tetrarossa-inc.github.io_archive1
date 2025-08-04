@@ -1,36 +1,45 @@
 body {
-	background-color: white;
+	background-color: black;
+	text-align: center;
 }
 
 h1 {
-	
+	text-align: center;
+	color: white;
 }
 
 h2 {
-	
+	text-align: center;
+	color: white;
 }
 
 h3 {
-	
+	text-align: center;
+	color: white;
 }
 
 h4 {
-	
+	text-align: center;
+	color: white;
 }
 
 h5 {
-	
+	text-align: center;
+	color: white;
 }
 
 h6 {
-	
+	text-align: center;
+	color: white;
 }
 
 p {
-	
+	text-align: center;
+	color: white;
 }
 
 footer {
-	color: #EEEEEE;
+	text-align: center;
+	color: transparent;
 }
 
