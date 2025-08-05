@@ -18,5 +18,5 @@ function playRandomAudio() {
 	audioPlayer.play();
 }
 
-// Random sound every 5 seconds
-setInterval(playRandomAudio, 5000);
+// Random sound every 2 seconds
+setInterval(playRandomAudio, 2000);
