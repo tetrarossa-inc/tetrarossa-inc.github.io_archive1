@@ -1,17 +1,16 @@
 <!DOCTYPE html>
 
-<html lang="en">
-
+<html>
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Game</title>
-        <link rel="stylesheet" href="game/game.css">
+        <link rel="stylesheet" href="css/game.css">
     </head>
 
     <body>
         <audio autoplay loop>
-            <source src="game/game.mp3" type="audio/mpeg">
+            <source src="audio/song_ParryGripp_RainingTacos.mp3" type="audio/mpeg">
         </audio>
         
         <div id="game-container">
@@ -21,12 +20,11 @@
 			<div id="posy">y: 0</div>
         </div>
         
-        <script src="game/game.js"></script>
+        <script src="js/game.js"></script>
 		
 		<button onclick="ArrowUp">UP</button>
 		<button onclick="ArrowDown">DOWN</button>
 		<button onclick="ArrowLeft">LEFT</button>
 		<button onclick="ArrowRight">RIGHT</button>
     </body>
-
 </html>
