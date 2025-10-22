@@ -43,3 +43,20 @@ footer {
 	color: transparent;
 }
 
+a:link {
+	color: white;
+	text-shadow: 0 0 3px #EEEEEE;
+}
+
+a:visited {
+	color: white;
+}
+
+a:hover {
+	color: black;
+	text-shadow: 0 0 3px white;
+}
+
+a:active {
+	color: yellow;
+}

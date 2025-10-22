@@ -1,0 +1,70 @@
+body {
+	background-color: black;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	color: blue;
+	font-family: monospace;
+}
+
+h2 {
+	text-align: center;
+	color: green;
+	font-family: monospace;
+}
+
+h3 {
+	text-align: center;
+	color: green;
+	font-family: monospace;
+}
+
+h4 {
+	text-align: center;
+	color: green;
+	font-family: monospace;
+}
+
+h5 {
+	text-align: center;
+	color: green;
+	font-family: monospace;
+}
+
+h6 {
+	text-align: center;
+	color: green;
+	font-family: monospace;
+}
+
+p {
+	text-align: center;
+	color: green;
+	font-family: monospace;
+}
+
+footer {
+	text-align: center;
+	color: white;
+	font-family: cursive;
+}
+
+a:link {
+	color: green;
+}
+
+a:visited {
+	color: green;
+}
+
+a:hover {
+	color: blue;
+	text-shadow: 0 0 3px #555555;
+}
+
+a:active {
+	color: orange;
+	text-shadow: 0 0 3px #555555;
+}

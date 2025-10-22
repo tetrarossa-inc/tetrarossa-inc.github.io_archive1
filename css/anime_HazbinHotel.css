@@ -1,0 +1,88 @@
+body {
+	background-color: #BD1A1A;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	color: #3F0808;
+	text-shadow: 0 0 3px white;
+}
+
+h2 {
+	text-align: center;
+	color: #3F0808;
+	text-shadow: 0 0 3px white;
+}
+
+h3 {
+	text-align: center;
+	color: #3F0808;
+	text-shadow: 0 0 3px white;
+}
+
+h4 {
+	text-align: center;
+	color: #3F0808;
+	text-shadow: 0 0 3px white;
+}
+
+h5 {
+	text-align: center;
+	color: #3F0808;
+	text-shadow: 0 0 3px white;
+}
+
+h6 {
+	text-align: center;
+	color: #3F0808;
+	text-shadow: 0 0 3px white;
+}
+
+p {
+	text-align: center;
+	color: #3F0808;
+	text-shadow: 0 0 3px white;
+}
+
+a:link {
+	color: #3F0808;
+	text-shadow: 0 0 3px white;
+}
+
+a:visited {
+	color: #3F0808;
+	text-shadow: 0 0 3px white;
+}
+
+a:hover {
+	color: white;
+	text-shadow: 0 0 3px #3F0808;
+}
+
+a:active {
+	color: #3F0808;
+	text-shadow: 0 0 3px white;
+}
+
+footer {
+	text-align: center;
+	color: white;
+}
+
+#countdown {
+	text-align: center;
+	color: #3F0808;
+	text-shadow: 0 0 3px white;
+}
+
+#Σcountdown {
+	text-align: center;
+	color: #3F0808;
+	text-shadow: 0 0 3px white;
+}
+
+button {
+  background-color: blue;
+  color: red;
+}
